@@ -8,7 +8,7 @@ A quick game I whipped up with a friend. There is an easy mode and a hard mode.
   <li>Enjoy!</li>
 </ol>
 <img src="loading.png" alt="Loading screen" height= "600" width="600"></img>
-<h1><b>Easy Mode</b></h1>
+<h2><b>Easy Mode</b></h2>
 <img src="easy.png" alt="Easy Mode" height="600" width="900"></img>
 <p>The goal of the easy mode is to get your character (@) through the cave to the yellow locked door. However, there are enemy triangles that spawn every couple of moves that use a simple AI algorithm to chase your character down. There is also a 'hover' functionality which allows you to identify different tiles. Typing in :q allows you to quit out of the game while saving your progress. The next time you load up the game, you can press S to continue the game.</p>
 <h2><b>Hard Mode</b></h2>
