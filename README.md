@@ -7,4 +7,4 @@ A quick game I whipped up with a friend. There is an easy mode and a hard mode.
   <li>Enter a seed to generate a random world map</li>
   <li>Enjoy!</li>
 </ol>
-<img src="loading.png" alt="Loading screen" height= "40" width="40"></img>
+<img src="loading.png" alt="Loading screen" height= "100" width="100"></img>
