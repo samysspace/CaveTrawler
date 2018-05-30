@@ -305,7 +305,7 @@ public class Game implements Serializable {
         Font font = new Font("Monaco", Font.BOLD, 30);
         StdDraw.setFont(font);
         StdDraw.setPenColor(StdDraw.BLUE);
-        StdDraw.text(width, height + 10, "CS61B: The Game");
+        StdDraw.text(width, height + 10, "Cave Trawler");
         font = new Font("Monaco", Font.BOLD, 20);
         StdDraw.setFont(font);
         StdDraw.text(width, height, "New Game Easy (N)");
