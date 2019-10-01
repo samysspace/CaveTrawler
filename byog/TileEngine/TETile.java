@@ -18,12 +18,11 @@ import byog.Core.RandomUtils;
  * provided cannot be found, draw will fallback to using the provided character and color
  * representation, so you are free to use image tiles on your own computer.
  *
- * The provided TETile is immutable, i.e. none of its instance variables can change. You are welcome
- * to make your TETile class mutable, if you prefer.
+ * The provided TETile is immutable, i.e. none of its instance variables can change.
  */
 
 public class TETile implements Serializable {
-    private final char character; // Do not rename character or the autograder will break.
+    private final char character; 
     private final Color textColor;
     private final Color backgroundColor;
     private final String description;
